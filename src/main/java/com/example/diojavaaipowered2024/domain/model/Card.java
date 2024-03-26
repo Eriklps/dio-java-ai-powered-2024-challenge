@@ -6,7 +6,6 @@ import jakarta.persistence.*;
 
 @Entity(name = "tb_card")
 public class Card {
-
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
