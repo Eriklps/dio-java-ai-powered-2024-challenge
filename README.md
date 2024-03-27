@@ -1,7 +1,6 @@
 # Java AI Powered Bootcamp 2024
 
-Java AI Powered Bootcamp's RESTful API built on Java 17 with Spring Boot 3.
-Developed for the final bootcamp challenge.
+RESTful API built in Java 17 with Spring Boot 3 developed in the final challenge of the [Java AI Powered Bootcamp](https://www.dio.me/bootcamp/coding-future-tonnie-java-ai-powered).
 
 ## Technologies
 - Java 17
